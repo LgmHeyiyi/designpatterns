@@ -1,0 +1,3 @@
+D:/workspace/designpatterns/Factory/build/CMakeFiles/test_demo.dir
+D:/workspace/designpatterns/Factory/build/CMakeFiles/ALL_BUILD.dir
+D:/workspace/designpatterns/Factory/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,10 @@
+^D:\WORKSPACE\DESIGNPATTERNS\FACTORY\BUILD\CMAKEFILES\14B9AF8D2C2496CF26D5F26189226D5A\GENERATE.STAMP.RULE
+setlocal
+D:\CMake\bin\cmake.exe -SD:/workspace/designpatterns/Factory -BD:/workspace/designpatterns/Factory/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/workspace/designpatterns/Factory/build/factory_test.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
