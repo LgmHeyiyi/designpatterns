@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/luguangming/workspace/designpatterns/Bridge/Abstraction.cpp
+Abstraction.h
+/Users/luguangming/workspace/designpatterns/Bridge/Abstraction.h
+
+/Users/luguangming/workspace/designpatterns/Bridge/Abstraction.h
+AbstractionImplement.h
+/Users/luguangming/workspace/designpatterns/Bridge/AbstractionImplement.h
+
+/Users/luguangming/workspace/designpatterns/Bridge/AbstractionImplement.cpp
+iostream
+-
+AbstractionImplement.h
+/Users/luguangming/workspace/designpatterns/Bridge/AbstractionImplement.h
+
+/Users/luguangming/workspace/designpatterns/Bridge/AbstractionImplement.h
+
+/Users/luguangming/workspace/designpatterns/Bridge/main.cpp
+Abstraction.h
+/Users/luguangming/workspace/designpatterns/Bridge/Abstraction.h
+AbstractionImplement.h
+/Users/luguangming/workspace/designpatterns/Bridge/AbstractionImplement.h
+
